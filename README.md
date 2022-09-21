@@ -1,4 +1,4 @@
-# 3b_-izimlerim
+# 3b_Çizimlerim
 
 
 Çizimlerin tamamı Fusion 360 ile benim taradımdan çizildi.
